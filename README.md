@@ -4,34 +4,59 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hello there 👋🏻, I'm Malika👩🏻‍💻</h1>
+
 <p align="center">___________________________________________________________________</p>
-<h3 align="center">A Computer Science Graduate Student at CSUDH specializing in Artificial Intelligence, with certifications and publications in Python programming and data analysis, including stock analysis using real-time data. As a Teaching Assistant and SI Leader, I excel in supporting students in Mathematics and Computer Science, fostering critical thinking and collaboration.</h3>
+
+<h3 align="center">A Computer Science Graduate Student at CSUDH specializing in Artificial Intelligence, with certifications and publications in Python programming and Data Analysis, including stock analysis using real-time data. As a Teaching Assistant and SI Leader, I excel in supporting students in Mathematics and Computer Science, prioritized knowledge transfer and critical thinking.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikahafizap&label=Profile%20views&color=0e75b6&style=flat" alt="malikahafizap" /> </p>
-<div align="center"> <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/DreamBig1.jpg"> </div> <br/>
+
+<div align="center"> <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/DreamBig2.png"> </div> <br/>
+
 <p align="center">___________________________________________________________________</p>
 
 <h2 align="left"> :sunglasses: Insights about me</h2>
 
-<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Technologist.gif" height="290px" align="right" />
+<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="450" width="450" />
 
-- 🔭 I’m currently working on [News Based Sentiment Analysis for Stock Investment Project](https://www.youtube.com/watch?v=bN2dT0JLHZ8)
-- 
-- 👀 I’m interested in exploring Cloud Computing concepts
-- 
-- 🌱 I’m currently learning [Data Structures and Algorithms](https://github.com/malikahafizap/malikahafizap/Data-Structures-and-Algorithms)
+- 🔭 I’m currently working on **successfully completing a 100 days of coding challenge.**
+  
+- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/malikahafizap/malikahafizap/Data-Structures-and-Algorithms)**
 
-- 👭 I’m looking to collaborate on 100 days of coding challenge
+- 👭 I’m looking to collaborate on **some projects related to Data Science**
 
-- 🤝 I’m looking for help with starting competitive coding
+- 👀 I’m interested in **exploring AWS**
 
-- 💬 Ask me anything about the tech-related stuff
+- 🤝 I’m looking for help with **internships**
 
-- 🎯 Always Upskilling and becoming a better Engineer everyday
+- 💬 Ask me anything about **the tech-related stuff**
 
-- 😄 Pronouns: She/Her/Hers
+- 🎯 **Always Upskilling and becoming a better Engineer everyday**
 
-- ⚡ Fun fact: **I love eating ice cream at 2 am in 46 degrees Fahrenheit!😛**
+- 😄 Pronouns: **She/Her/Hers**
+
+- ⚡ Fun fact: **I eat ice cream at 2 am in 46°F and challenge the weather to a brain freeze duel!😋🍦❄️**
 
 <p align="center">___________________________________________________________________</p>
 
+<h2 align="left"> :mailbox:  Let's get connected</h2>
 
+<p align="center">___________________________________________________________________</p>
+
+<h2 align="left"> 💻 Languages, Technologies and Tools</h2>
+
+<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
+
+<p align="center">___________________________________________________________________</p>
+
+<h2 align="left"> :bar_chart: Overall Statistics</h2>
+
+<p align="center">
+<img alt="Malika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malikahafizap&show_icons=true&hide_border=false" /> </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/> </p>
+
+<p align="center">___________________________________________________________________</p>
+
+<h3 align="center">Show some admiration by starring⭐some of the repositories!</h3>
