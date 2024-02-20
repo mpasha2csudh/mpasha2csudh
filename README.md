@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> :sunglasses: Insights about me</h2>
 
-<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="400" width="400" />
+<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="350" width="350" />
 
 - 🔭 I’m currently working on **successfully completing a 100 days of coding challenge.**
   
-- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/malikahafizap/malikahafizap/Data-Structures-and-Algorithms)**
+- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/malikahafizap/Data_Structures_and_Algorithms)**
 
 - 👭 I’m looking to collaborate on **some projects related to Data Science**
 
