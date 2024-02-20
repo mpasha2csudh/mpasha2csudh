@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="Malika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malikahafizap&show_icons=true&hide_border=false" /> </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=false&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/> </p>
 
 <p align="center">___________________________________________________________________</p>
 
