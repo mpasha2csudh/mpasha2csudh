@@ -7,17 +7,17 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">___________________________________________________________________</p>
 
-<h3 align="center">A Computer Science Graduate Student at CSUDH specializing in Artificial Intelligence, with certifications and publications in Python programming and Data Analysis, including stock analysis using real-time data. As a Teaching Assistant and SI Leader, I excel in supporting students in Mathematics and Computer Science, prioritized knowledge transfer and critical thinking.</h3>
+<h3 align="center">A Computer Science Graduate Student at CSUDH specializing in Artificial Intelligence, with certifications and publications in Python programming and Data Analysis, including stock analysis using real-time data. As a Teaching Assistant and SI Leader, I excel in supporting students in Mathematics and Computer Science, prioritizing knowledge transfer and critical thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikahafizap&label=Profile%20views&color=0e75b6&style=flat" alt="malikahafizap" /> </p>
 
-<div align="center"> <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/DreamBig2.png"> </div> <br/>
+<div align="center"> <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/DreamBig1.jpg"> </div> <br/>
 
 <p align="center">___________________________________________________________________</p>
 
 <h2 align="left"> :sunglasses: Insights about me</h2>
 
-<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="450" width="450" />
+<img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="400" width="400" />
 
 - 🔭 I’m currently working on **successfully completing a 100 days of coding challenge.**
   
@@ -41,11 +41,18 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> :mailbox:  Let's get connected</h2>
 
+<a href="https://www.linkedin.com/in/malikahafizap" target="_blank"><img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/LinkedIn.png" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/malikahafizap" target="_blank"><img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Instagram.png" alt="instagram" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+</br>
+
 <p align="center">___________________________________________________________________</p>
 
 <h2 align="left"> 💻 Languages, Technologies and Tools</h2>
 
 <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Java.jpg" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/C.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/R.png" height="30" />&nbsp;&nbsp;&nbsp;
 
 <p align="center">___________________________________________________________________</p>
 
