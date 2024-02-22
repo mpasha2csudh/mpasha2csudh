@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A Computer Science Graduate Student at CSUDH specializing in Artificial Intelligence, with certifications and publications in Python programming and Data Analysis, including stock analysis using real-time data. As a Teaching Assistant and SI Leader, I excel in supporting students in Mathematics and Computer Science, prioritizing knowledge transfer and critical thinking.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikahafizap&label=Profile%20views&color=0e75b6&style=flat" alt="malikahafizap" /> </p>
-
 <div align="center"> <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/DreamBig1.jpg"> </div> <br/>
 
 <p align="center">___________________________________________________________________</p>
