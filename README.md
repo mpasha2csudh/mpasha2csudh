@@ -1,5 +1,5 @@
 <!---
-malikahafizap/malikahafizap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mpasha2/mpasha2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -39,17 +39,13 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> :mailbox:  Let's get connected</h2>
 
-<a href="https://www.linkedin.com/in/malikahafizap" target="_blank"><img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/LinkedIn.png" alt="linkedin" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/malikahafizap" target="_blank"><img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Instagram.png" alt="instagram" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
-</br>
-
 <p align="center">___________________________________________________________________</p>
 
 <h2 align="left"> 💻 Languages, Technologies and Tools</h2>
 
 <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/Java.jpg" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/C.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/malikahafizapmalikahafizap/main/assets/C.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/R.png" height="30" />&nbsp;&nbsp;&nbsp;
 
 <p align="center">___________________________________________________________________</p>
@@ -57,12 +53,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left"> :bar_chart: Overall Statistics</h2>
 
 <p align="center">
-<img alt="Malika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malikahafizap&show_icons=true&hide_border=false" /> </p>
+<img alt="Malika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mpasha2&show_icons=true&hide_border=false" /> </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikahafizap&layout=compact&show_icons=true&count_private=false&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/> </p>                 
-
-[![Malika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malikahafizap&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/malikahafizap/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpasha2&layout=compact&show_icons=true&count_private=false&include_all_commits=true&hide_border=false&line_height=27" alt="Malika's github lang stats"/> </p>                 
 
 
 <p align="center">___________________________________________________________________</p>
