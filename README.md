@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="https://github.com/malikahafizap/malikahafizap/blob/main/assets/WomenTechnologist2.jpg" align="left"  height="350" width="350" />
 
-- 🔭 I’m currently working on **successfully completing a 100 days of coding challenge.**
   
 - 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/malikahafizap/Data_Structures_and_Algorithms)**
 
