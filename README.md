@@ -3,7 +3,7 @@ mpasha2/mpasha2 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello there 👋🏻, I'm Malika👩🏻‍💻</h1>
+<h1 align="center">Hello there 👋🏻, I'm Malika</h1>
 
 <p align="center">___________________________________________________________________</p>
 
